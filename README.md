@@ -1,4 +1,4 @@
-## Olá, eu me chamo Raoni Cerqueira!
+## Olá, eu me chamo Raoni Cerqueira. Sou estudante de programação e entusiasta da tecnologia!
 
 <div>
 <a href="https://github.com/raonircl">
