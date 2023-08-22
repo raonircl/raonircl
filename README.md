@@ -2,8 +2,8 @@
 Sou estudante de programação e entusiasta da tecnologia! 👽
 
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=raonircl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonircl"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api?username=raonircl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonircl"/>
 </div>
 
   ##
