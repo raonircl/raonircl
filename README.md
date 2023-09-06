@@ -8,26 +8,6 @@ Sou estudante de programação e entusiasta da tecnologia! 👽
 
   ##
 
-- 🌐 Browsers:
-<div style="display: inline_block">
-  <a href="https://brave.com/pt-br/download/"><img align="center" alt="" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></a>
-   <a href="[https://brave.com/pt-br/download/](https://www.microsoft.com/pt-br/edge/download?form=MA13FJ&ch)"><img align="center" alt="" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"></a>
-   <a href="https://www.mozilla.org/pt-BR/firefox/new/"><img align="center" alt="" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
-   <a href="https://www.torproject.org/pt-BR/download/"><img align="center" alt="" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"></a>
-   <a href="https://www.google.com/intl/pt-BR/chrome/"><img align="center" alt="" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
-   <a href="https://www.microsoft.com/pt-br/download/internet-explorer.aspx"><img align="center" alt="" src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white"></a>
-</div>
-  
-  ##
-  
-📂 Cloud Storage:
-<div style="display: inline_block">
-  <a href="https://mega.io/pt-br/"><img align="center" alt="" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white"></a>
-  <a href="https://www.google.com/intl/pt-br/drive/about.html"><img align="center" alt="" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-</div>
-
-  ##
-
 🧑‍💻 Developer/Forums:
 <div style="display: inline_block">
   <a href="https://www.hackerrank.com/raoni_afi"><img align="center" alt="" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -113,19 +93,6 @@ Sou estudante de programação e entusiasta da tecnologia! 👽
   <a href=""><img align="center" alt="" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
   <a href=""><img align="center" alt="" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
   <a href=""><img align="center" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a>
-</div>
-
-  ##
-
-🎛️ Operating System:
-<div style="display: inline_block">
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white"></a>
 </div>
 
   ##
