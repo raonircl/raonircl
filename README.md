@@ -1,6 +1,20 @@
 ## Olá, eu me chamo Raoni Cerqueira. 
 Sou estudante de programação e entusiasta da tecnologia! 👽
 
+##
+
+💬 Social:
+<div style="display: inline_block">
+  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:raoni@gmail.com"><img align="center" alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/raonircl"><img align="center" alt="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raoni-cerqueira-027026211/"><img align="center" alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+##
+
 <div>
 <img height="300em" src="https://github-readme-stats.vercel.app/api?username=raonircl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonircl"/>
@@ -104,13 +118,3 @@ Sou estudante de programação e entusiasta da tecnologia! 👽
 </div>
 
   ##
-
-💬 Social:
-<div style="display: inline_block">
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:raoni@gmail.com"><img align="center" alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/raonircl"><img align="center" alt="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/raoni-cerqueira-027026211/"><img align="center" alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href=""><img align="center" alt="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
